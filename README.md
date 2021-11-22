@@ -10,7 +10,7 @@
   
   
   
-![Snake animation](https://github.com/ju-couto/ju-couto/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/ju-couto/ju-couto/blob/main/.github/workflows/cobrinha.svg)
 <!--
 **ju-couto/ju-couto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
