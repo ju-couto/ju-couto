@@ -11,7 +11,7 @@
 </div>
 
 <a href="https://www.linkedin.com/in/juliamcouto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  <a href = "mailto:juliamartinscouto0403@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:jcouto.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
